@@ -34,3 +34,14 @@ startx
 
 
 curl -i http://localhost:8000/gethostIp
+
+
+firefox 打开http页面
+
+
+
+
+
+firefox http://127.0.0.1:8000/
+
+
